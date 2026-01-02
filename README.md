@@ -1,4 +1,7 @@
 ## All Play
+
+**Projeto acadêmico desenvolvido no curso Técnico em Informática – IFSC Campus Gaspar**
+
 O **All Play** é uma aplicação web voltada para a criação e fortalecimento de **comunidades esportivas com base na localização do usuário**.  
 Seu principal objetivo é conectar atletas de diferentes modalidades, facilitando encontros, interações e a divulgação de conquistas esportivas.
 
@@ -22,7 +25,7 @@ Além disso, o All Play permite:
 
 ## 2. Tela de Cadastro
 
-A tela de cadastro é dividida em três partes:
+A tela de cadastro é dividida em três etapas:
 
 ## Parte 1:
 <img src="imagens/TeladeCadastro1.png">
@@ -49,9 +52,18 @@ Aqui o usuário escolhe suas **modalidades esportivas favoritas**, que serão us
 
 <img src="imagens/TelaLocalização.png" >
 
+Tela onde o usuário pode acompanhar o mapa e os locais populares na região em que ele se encontra, além de outros usuários próximos a ele, como demonstrado na imagem.
+
 ## Tela Perfil do Usuário
 
 <img src="imagens/TelaPerfil.png">
+
+Tela onde o usuário pode visualizar e editar suas informações pessoais, além de acompanhar suas publicações e atividades, como:
+
+- Adicionar clubes
+- Excluir publicações
+- Editar os esportes que escolheu, biografia e outras informações pessoais.
+
 
 ## Instrução de Instalação
 
@@ -65,6 +77,6 @@ npm install express
 Para abrir o site no navegador, basta ter o banco de dados MySQL, clonar o repositório e digitar os seguintes comandos:
 
 ```bash
-cd front-ent
+cd front-end
 node appbanco.js
 ```
