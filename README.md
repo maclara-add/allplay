@@ -8,6 +8,7 @@ Ao acessar o sistema pela primeira vez, o usuário escolhe até **5 esportes pri
 
 Além disso, o All Play permite:
 - Adicionar amigos
+- Curtir publicação de outros usuários
 - Editar o perfil do usuário
 - Buscar academias e clubes próximos
 - Criar e participar de eventos esportivos
