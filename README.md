@@ -4,7 +4,7 @@ Seu principal objetivo é conectar atletas de diferentes modalidades, facilitand
 
 Na plataforma, os usuários podem compartilhar publicações escritas, fotos, criar eventos esportivos e interagir com outros atletas, academias e clubes próximos à sua região.
 
-Ao acessar o sistema pela primeira vez, o usuário escolhe até **5 esportes principais**, que serão usados para personalizar o feed de conteúdo. Também é possível filtrar o feed por modalidade, visualizar apenas um esporte específico e gerenciar suas preferências ao longo do tempo.
+Ao acessar o sistema pela primeira vez, o usuário escolhe até **5 esportes principais**, que serão usados para personalizar o feed de conteúdo. Também é possível filtrar o feed por modalidade, visualizar apenas um esporte específico e gerenciar/modificar suas preferências ao longo do tempo.
 
 Além disso, o All Play permite:
 - Adicionar amigos
@@ -32,12 +32,14 @@ Consiste em completar seus dados pessoais, e a informação mais importante: A l
 ## Parte 2:
 
 <img src= "imagens/TeladeCadastro2.png">
-[Descrever]
+
+Nessa etapa, o usuário deve completar o seu perfil de usuário, adicionando informações essenciais para montar o perfil que os outros verão na rede social.
 
 ## Parte 3:
 
 <img src= "imagens/TeladeCadastro3.png">
-[Descrever]
+
+Aqui o usuário escolhe suas **modalidades esportivas favoritas**, que serão usadas para personalizar o feed e as sugestões de conteúdo.
 
 ## Tela Inicial - FEED
 
