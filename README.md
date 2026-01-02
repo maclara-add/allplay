@@ -1,7 +1,18 @@
 ## All Play
-O All Play é um site web de comunidades esportivas, com foco em localização. Seu objetivo é fazer com que atletas de diversas modalidades possam se encontrar, ou até mesmo compartilhar suas conquistas na rede. Criando eventos, compartilhando fotos, publicações escritas, e etc.
+O **All Play** é uma aplicação web voltada para a criação e fortalecimento de **comunidades esportivas com base na localização do usuário**.  
+Seu principal objetivo é conectar atletas de diferentes modalidades, facilitando encontros, interações e a divulgação de conquistas esportivas.
 
-Ao entrar no aplicativo, você pode escolher 5 esportes principais para a dinâmica do seu feed. Ou até mesmo, escolher periodicamente um desses feeds, caso queira ver apenas um. É possível fazer amigos, editar seu perfil, procurar academias e clubes perto da sua localização e até mesmo criar eventos!
+Na plataforma, os usuários podem compartilhar publicações escritas, fotos, criar eventos esportivos e interagir com outros atletas, academias e clubes próximos à sua região.
+
+Ao acessar o sistema pela primeira vez, o usuário escolhe até **5 esportes principais**, que serão usados para personalizar o feed de conteúdo. Também é possível filtrar o feed por modalidade, visualizar apenas um esporte específico e gerenciar suas preferências ao longo do tempo.
+
+Além disso, o All Play permite:
+- Adicionar amigos
+- Editar o perfil do usuário
+- Buscar academias e clubes próximos
+- Criar e participar de eventos esportivos
+
+---
 
 ## Telas do Projeto
 
